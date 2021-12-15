@@ -1,7 +1,7 @@
-### Welcome to Mager Document
+# Welcome to Mager Document
 
 ## Commands
-# General
+### General
 `??invite` - Invite me!
 
 `??future` - Recieve Future Updates!
@@ -25,7 +25,7 @@
 `??pokemon {Name}` - Sends a picture of a pokemon
 
 
-# Admin
+### Admin
 `??countclick` - Creates a button count!
 
 `??mute {user}` - Mute someone
@@ -67,7 +67,7 @@
 `??swebhook {Webhook URL} {Message (Add + for a space)}` - Sends a message at the webhook url
 
 
-# Economy
+### Economy
 `??balance` - See your balance
 
 `??pay {user} {money}` - Pay someone
@@ -83,7 +83,7 @@
 `??leaderboard {page}` - Shows Money Leaderboard
 
 
-# Games
+### Games
 `??snake` - Snake(Currently in Development) By Cat Developer
 
 
@@ -93,7 +93,7 @@
 `??chat {message}` - Chatbot
 
 
-# Custom Commands
+### Custom Commands
 `??cc1 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
 
 `??cc2 {trigger}/{reply}` - Make a custom command for this server! Only Admin!
